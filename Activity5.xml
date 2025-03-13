@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slideshow>
+    <slide>
+        <number>1</number>
+        <image>
+            https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Winter_2024_Little_Dog_Website_Sliders-1.jpg</image>
+        <caption>The Little Dog</caption>
+    </slide>
+    <slide>
+        <number>2</number>
+        <image>
+            https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Team_Collage_Slider.jpg</image>
+        <caption>Trusted Partners</caption>
+    </slide>
+    <slide>
+        <number>3</number>
+        <image>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/3-4.png</image>
+        <caption>Marketing Expertise</caption>
+    </slide>
+    <slide>
+        <number>4</number>
+        <image>https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/4-4.png</image>
+        <caption>Nationwide Reach</caption>
+    </slide>
+</slideshow>
